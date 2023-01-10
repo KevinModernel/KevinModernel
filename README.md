@@ -28,10 +28,11 @@ My projects until now are built with:
 
 And I'm working/studying TypeScrypt, Java and React.
 
-** Let's get in touch! **
+**Let's get in touch!**
 
-Email: ModernelKevin@gmail.com
-LinkedIn: https://www.linkedin.com/in/kevin-modernel/
+**Email:** ModernelKevin@gmail.com
+
+**LinkedIn:** LinkedIn.com/in/kevin-modernel/
 
 
 
