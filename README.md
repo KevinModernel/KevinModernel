@@ -6,11 +6,11 @@ I've been coding as a hobby for some years, and since October 2022 I made the de
 
 My projects until now are built with:
 
-Back End:
+### Back End:
   - NodeJS
   - And its popular modules such as Express, Passport, Mongoose, Sequelize.
 
-Front End:
+### Front End:
   - HTML
   - CSS
   - Bootstrap
@@ -18,11 +18,11 @@ Front End:
   - Vanilla JS
   - A little bit of jQuery
 
-DataBases:
+### DataBases:
   - PostgreSQL
   - MongoDB
 
-Testing:
+### Testing:
   - Jest
   - SuperTest
 
