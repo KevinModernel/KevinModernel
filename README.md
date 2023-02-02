@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kevin and I'm working to become a Full Stack Developer! I'm currently focused on learning Back End with NodeJS and Java, and using either SQL or NoSQL databases, upon the requirements of the project.
+My name is Kevin and I'm working to become a Full Stack Developer! I'm currently focused on learning the MERN Stack, and using either SQL or NoSQL databases, upon the requirements of the project.
 
 I've been coding as a hobby for some years, and since October 2022 I made the decision of changing my professional path from Mechanical Engineering to Software Development (finally I put my money where my mouth was :sweat_smile:), so here I am, spending a good part of the day coding and the rest of it reading documentation/StackOverFlow :blush:.
 
@@ -13,6 +13,7 @@ My projects until now are built with:
   - And its popular modules such as Express, Passport, Mongoose, Sequelize.
 
 ### Front End:
+  - React
   - HTML
   - CSS
   - Bootstrap
